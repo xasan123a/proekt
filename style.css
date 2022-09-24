@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.item{
+   width: 150px; 
+    height: 150px;
+    background-color: green;
+    border: 2px solid red;
+    color: white;
+    display: flex;
+    justify-content: center;
+align-items: center;
+
+}
+
+
+
+.box{
+  width: 1000px;  
+  height: 1000px;  
+border: 5px solid black;
+margin: 50px auto;
+display: flex;
+
+
+
+}
+
